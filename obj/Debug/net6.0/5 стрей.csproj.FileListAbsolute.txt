@@ -1,0 +1,15 @@
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\5 стрей.csproj.AssemblyReference.cache
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\5 стрей.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\5 стрей.AssemblyInfoInputs.cache
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\5 стрей.AssemblyInfo.cs
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\5 стрей.csproj.CoreCompileInputs.cache
+C:\Users\c1aye\source\repos\5 стрей\bin\Debug\net6.0\5 стрей.exe
+C:\Users\c1aye\source\repos\5 стрей\bin\Debug\net6.0\5 стрей.deps.json
+C:\Users\c1aye\source\repos\5 стрей\bin\Debug\net6.0\5 стрей.runtimeconfig.json
+C:\Users\c1aye\source\repos\5 стрей\bin\Debug\net6.0\5 стрей.dll
+C:\Users\c1aye\source\repos\5 стрей\bin\Debug\net6.0\5 стрей.pdb
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\5 стрей.dll
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\refint\5 стрей.dll
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\5 стрей.pdb
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\5 стрей.genruntimeconfig.cache
+C:\Users\c1aye\source\repos\5 стрей\obj\Debug\net6.0\ref\5 стрей.dll
